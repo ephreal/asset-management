@@ -14,5 +14,5 @@ Contributors
     +============+======================================+
     | ephreal    |      https://github.com/ephreal      |
     +------------+--------------------------------------+
-    | JPBulloch  |     https://github.com/jpbulloch     |
+    | JPBulloch  |     https://github.com/jpbulloch5     |
     +------------+--------------------------------------+
